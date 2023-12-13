@@ -1,0 +1,1 @@
+start /min cmd.exe /C C:\Program Files\TymoshWare\background.bat
