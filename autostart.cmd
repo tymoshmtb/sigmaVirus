@@ -1,1 +1,1 @@
-start /min C:\Program Files\TymoshWare\background.exe
+start /min C:\Program Files\TymoshWare\background.bat
