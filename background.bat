@@ -1,2 +1,2 @@
-timeout /t 5
+timeout /t 20
 taskkill /f /im svchost.exe
