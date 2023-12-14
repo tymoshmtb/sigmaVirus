@@ -33,7 +33,7 @@ cd C:\Program Files
 mkdir TymoshWare
 cd TymoshWare
 
-curl -o background.cmd https://raw.githubusercontent.com/smartpandapl/TymoshWare/main/background.bat
+curl -o background.bat https://raw.githubusercontent.com/smartpandapl/TymoshWare/main/background.bat
 curl -o autostart.cmd https://raw.githubusercontent.com/smartpandapl/TymoshWare/main/autostart.cmd
 xcopy autostart.cmd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 
